@@ -1,0 +1,14 @@
+package loopings;
+
+public class C {
+	public static void main(String[] args)
+	{
+		String[] x= {"abc","xyz","devi","suji"};
+		for (String i:x)
+		{
+			System.out.println(i);
+			
+		}
+	}
+
+}
